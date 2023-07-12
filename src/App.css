@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: skyblue;
+}
+
+img {
+    height: 350px;
+    width: 250px;
+}
+
+.sections {
+    border: 1px solid black;
+    margin: 10px auto;
+    width: 50%;
+}
+
+.App {
+    text-align: center;
+}
+
+hr {
+    width: 60%;
+}
+
+
